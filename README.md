@@ -6,6 +6,10 @@
 
 ###
 
+<p align="center">My social networks:.</p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-shnayder-1620451b2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -20,6 +24,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<p align="center">Language and tools:.</p>
 
 ###
 
