@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">My social networks:.</p>
+<p align="center">My social networks:</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="center">Language and tools:.</p>
+<p align="center">Language and tools:</p>
 
 ###
 
