@@ -1,4 +1,4 @@
-<p align="center">Hi! My name is Igor Shnayder.<br><br>I am a Unity developer and my passionate is: writing code, playing computer games, reading fantasy and science fiction literature, making portrait and landscape photography.</p>
+<p align="center">Hi! My name is Igor Shnayder.<br><br>I am a Junior Unity developer and my passionate is: writing code, playing computer games, reading fantasy and science fiction literature, making portrait and landscape photography.</p>
 
 ###
 
